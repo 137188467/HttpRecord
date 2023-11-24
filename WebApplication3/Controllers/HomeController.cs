@@ -48,7 +48,8 @@ namespace WebApplication3.Controllers
 
 
         //http://localhost:8081/wxcd6ca419b834cecd/callback
-        [HttpGet]
+        //[HttpPost]
+        //[HttpGet]
         public ActionResult Callback(string appid)
         {
             // 在这里处理接口逻辑
