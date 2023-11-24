@@ -9,6 +9,8 @@ namespace WebApplication3.Controllers
     public class HomeController : Controller
     {
         public static object i = new object();
+
+        //http://localhost:8081
         public ActionResult Index()
         {
             var userip = Request.UserHostAddress;
@@ -43,6 +45,18 @@ namespace WebApplication3.Controllers
           
             return View();
         }
+
+
+        //http://localhost:8081/wxcd6ca419b834cecd/callback
+        [HttpGet]
+        public ActionResult Callback(string appid)
+        {
+            // 在这里处理接口逻辑
+            // 使用 appid 参数进行进一步的操作
+            // 返回相应的结果
+            return View();
+        }
+
 
         public ActionResult About()
         {
