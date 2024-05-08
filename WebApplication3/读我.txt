@@ -1,0 +1,9 @@
+﻿Enable-Migrations
+
+Add-Migration <迁移名称>
+
+Update-Database
+
+
+特别说明 ，如果使用了express数据库，调试的时候不能附加到IIS执行，否则连接不到数据库。
+
