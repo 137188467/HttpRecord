@@ -260,3 +260,39 @@ header:Connection=keep-alive&Accept=text%2fhtml%2capplication%2fxhtml%2bxml%2cap
 ip:::1
 query:
 method:GET
+time:2024-05-08 17:42:16
+body:
+header:Connection=keep-alive&Accept=text%2fhtml%2capplication%2fxhtml%2bxml%2capplication%2fxml%3bq%3d0.9%2cimage%2favif%2cimage%2fwebp%2c*%2f*%3bq%3d0.8&Accept-Encoding=gzip%2c+deflate%2c+br&Accept-Language=zh-CN%2czh%3bq%3d0.8%2czh-TW%3bq%3d0.7%2czh-HK%3bq%3d0.5%2cen-US%3bq%3d0.3%2cen%3bq%3d0.2&Host=localhost%3a8081&User-Agent=Mozilla%2f5.0+(Windows+NT+10.0%3b+Win64%3b+x64%3b+rv%3a109.0)+Gecko%2f20100101+Firefox%2f115.0&Upgrade-Insecure-Requests=1&Sec-Fetch-Dest=document&Sec-Fetch-Mode=navigate&Sec-Fetch-Site=cross-site
+ip:127.0.0.1
+query:
+method:GET
+time:2024-05-08 17:45:53
+body:
+header:Connection=keep-alive&Accept=text%2fhtml%2capplication%2fxhtml%2bxml%2capplication%2fxml%3bq%3d0.9%2cimage%2favif%2cimage%2fwebp%2c*%2f*%3bq%3d0.8&Accept-Encoding=gzip%2c+deflate%2c+br&Accept-Language=zh-CN%2czh%3bq%3d0.8%2czh-TW%3bq%3d0.7%2czh-HK%3bq%3d0.5%2cen-US%3bq%3d0.3%2cen%3bq%3d0.2&Host=localhost%3a8081&User-Agent=Mozilla%2f5.0+(Windows+NT+10.0%3b+Win64%3b+x64%3b+rv%3a109.0)+Gecko%2f20100101+Firefox%2f115.0&Upgrade-Insecure-Requests=1&Sec-Fetch-Dest=document&Sec-Fetch-Mode=navigate&Sec-Fetch-Site=none&Sec-Fetch-User=%3f1
+ip:127.0.0.1
+query:
+method:GET
+time:2024-05-08 17:56:04
+body:
+header:Connection=keep-alive&Accept=text%2fhtml%2capplication%2fxhtml%2bxml%2capplication%2fxml%3bq%3d0.9%2cimage%2favif%2cimage%2fwebp%2c*%2f*%3bq%3d0.8&Accept-Encoding=gzip%2c+deflate%2c+br&Accept-Language=zh-CN%2czh%3bq%3d0.8%2czh-TW%3bq%3d0.7%2czh-HK%3bq%3d0.5%2cen-US%3bq%3d0.3%2cen%3bq%3d0.2&Host=localhost%3a8081&User-Agent=Mozilla%2f5.0+(Windows+NT+10.0%3b+Win64%3b+x64%3b+rv%3a109.0)+Gecko%2f20100101+Firefox%2f115.0&Upgrade-Insecure-Requests=1&Sec-Fetch-Dest=document&Sec-Fetch-Mode=navigate&Sec-Fetch-Site=none&Sec-Fetch-User=%3f1
+ip:127.0.0.1
+query:
+method:GET
+time:2024-05-08 18:18:15
+body:
+header:Connection=keep-alive&Accept=text%2fhtml%2capplication%2fxhtml%2bxml%2capplication%2fxml%3bq%3d0.9%2cimage%2favif%2cimage%2fwebp%2c*%2f*%3bq%3d0.8&Accept-Encoding=gzip%2c+deflate%2c+br&Accept-Language=zh-CN%2czh%3bq%3d0.8%2czh-TW%3bq%3d0.7%2czh-HK%3bq%3d0.5%2cen-US%3bq%3d0.3%2cen%3bq%3d0.2&Host=localhost%3a8081&User-Agent=Mozilla%2f5.0+(Windows+NT+10.0%3b+Win64%3b+x64%3b+rv%3a109.0)+Gecko%2f20100101+Firefox%2f115.0&Upgrade-Insecure-Requests=1&Sec-Fetch-Dest=document&Sec-Fetch-Mode=navigate&Sec-Fetch-Site=none&Sec-Fetch-User=%3f1
+ip:127.0.0.1
+query:
+method:GET
+time:2024-05-08 18:18:29
+body:
+header:Connection=keep-alive&Content-Length=0&Accept=*%2f*&Accept-Encoding=gzip%2c+deflate%2c+br&Host=localhost%3a8081&User-Agent=PostmanRuntime%2f7.37.3&Postman-Token=d4611cc7-3f25-4f70-a1a7-5a3f9760d96d
+ip:::1
+query:
+method:POST
+time:2024-05-08 18:19:12
+body:<?xml version="1.0" encoding="UTF-8"?><request><deliveryOrder><deliveryOrderCode>WD20231107-400570</deliveryOrderCode><oaidOrderSourceCode>6923441825908069406</oaidOrderSourceCode><preDeliveryOrderCode>WD20231107-400570</preDeliveryOrderCode><orderType>JYCK</orderType><warehouseCode>HK001911</warehouseCode><logisticsCode>YTO</logisticsCode><logisticsName>圆通快递</logisticsName><ownerCode>21</ownerCode><sourcePlatformCode>DY</sourcePlatformCode><sourcePlatformName>其他</sourcePlatformName><placeOrderTime>2023-11-07 02:26:21</placeOrderTime><operateTime>2023-11-07 02:31:12</operateTime><shopNick>抖音诺诗兰运动户外旗舰店</shopNick><buyerNick>##6ntvqh/fU3f54nYFXEiLCGD9YtbrasN0HguwUs9H9y1qgHZXunfjOSRwIQKtEecv/sU7gSRt1Jx8mOboyLuonjfDut6LXEyT9BGIMfgumMQ=*CgYIASAHKAESPgo8PYwT2w/o7QsMxQ5Ke4P1AgSMqW7IUVulSusSLAy6IPnRd+SxL0WOr4WsKKnuYosJ6YALJPH9jkhIXvKnGgA=#1##</buyerNick><remark /><payTime>2023-11-07 02:26:24</payTime><createTime>2023-11-07 02:28:53</createTime><payNo>TP2023110710261727989934234769</payNo><invoiceFlag>N</invoiceFlag><receiverInfo><mobile>$$2IlC+uD7R9rhLIJYXUsl25CoebUT2AWChWLlGC55nqv4bxSNaKf7PfW4tagkUwZHLSn/kuWLNG/NjbyPPVZIK+RYtgJWjgXETFys8rpQWthwEA==*CgYIASAHKAESPgo8f3oIr3xEgsCIiRJPOKZU3kucf1ceUJmbDzYYTewzTOnd25V9Z7ncXFkzeQHZo8uHOaOM7FVD7lLsdi0oGgA=$1$$</mobile><province>辽宁省</province><city>盘锦市</city><area>大洼区</area><town>田家镇</town><detailAddress>##rT0jnmxVNy8stRWI+zbKmVrEB7CfF1mO+1noibKg5s9g4XaajJZnqRk5gMXWmR/FsgE2rA+zsLfmI7/+8WgjE0PX42fdXcNljQ6LUHUWjLEJzrKQznhL2/dE7Zm+iW8TiR6FmlXrqtA74AIaBvRdk1NQ0nb4FA==*CgYIASAHKAESPgo85ZmduVaUbVjz9W6rJLf7tRVTwbiAg7HfNc65cwhLs1dZfW5hzzpk1+3GLHAsh7gdnE4zGV4ILIMfhmlRGgA=#1##</detailAddress><name>##6ntvqh/fU3f54nYFXEiLCGD9YtbrasN0HguwUs9H9y1qgHZXunfjOSRwIQKtEecv/sU7gSRt1Jx8mOboyLuonjfDut6LXEyT9BGIMfgumMQ=*CgYIASAHKAESPgo8PYwT2w/o7QsMxQ5Ke4P1AgSMqW7IUVulSusSLAy6IPnRd+SxL0WOr4WsKKnuYosJ6YALJPH9jkhIXvKnGgA=#1##</name><zipCode /><tel>$$2IlC+uD7R9rhLIJYXUsl25CoebUT2AWChWLlGC55nqv4bxSNaKf7PfW4tagkUwZHLSn/kuWLNG/NjbyPPVZIK+RYtgJWjgXETFys8rpQWthwEA==*CgYIASAHKAESPgo8f3oIr3xEgsCIiRJPOKZU3kucf1ceUJmbDzYYTewzTOnd25V9Z7ncXFkzeQHZo8uHOaOM7FVD7lLsdi0oGgA=$1$$</tel><oaid /></receiverInfo><senderInfo><mobile>$$2IlC+uD7R9rhLIJYXUsl25CoebUT2AWChWLlGC55nqv4bxSNaKf7PfW4tagkUwZHLSn/kuWLNG/NjbyPPVZIK+RYtgJWjgXETFys8rpQWthwEA==*CgYIASAHKAESPgo8f3oIr3xEgsCIiRJPOKZU3kucf1ceUJmbDzYYTewzTOnd25V9Z7ncXFkzeQHZo8uHOaOM7FVD7lLsdi0oGgA=$1$$</mobile><province>辽宁省</province><city>盘锦市</city><detailAddress>##rT0jnmxVNy8stRWI+zbKmVrEB7CfF1mO+1noibKg5s9g4XaajJZnqRk5gMXWmR/FsgE2rA+zsLfmI7/+8WgjE0PX42fdXcNljQ6LUHUWjLEJzrKQznhL2/dE7Zm+iW8TiR6FmlXrqtA74AIaBvRdk1NQ0nb4FA==*CgYIASAHKAESPgo85ZmduVaUbVjz9W6rJLf7tRVTwbiAg7HfNc65cwhLs1dZfW5hzzpk1+3GLHAsh7gdnE4zGV4ILIMfhmlRGgA=#1##</detailAddress><name>##6ntvqh/fU3f54nYFXEiLCGD9YtbrasN0HguwUs9H9y1qgHZXunfjOSRwIQKtEecv/sU7gSRt1Jx8mOboyLuonjfDut6LXEyT9BGIMfgumMQ=*CgYIASAHKAESPgo8PYwT2w/o7QsMxQ5Ke4P1AgSMqW7IUVulSusSLAy6IPnRd+SxL0WOr4WsKKnuYosJ6YALJPH9jkhIXvKnGgA=#1##</name><area>大洼区</area></senderInfo><invoices /><buyerMessage /><sellerMessage /></deliveryOrder><orderLines><orderLine><orderLineNo>1</orderLineNo><itemCode>NWJDT0565E102NL185</itemCode><planQty>1</planQty><ownerCode>21</ownerCode><itemName>加德三穿冲锋衣</itemName><sourceOrderCode>6923441825908069406</sourceOrderCode><subSourceOrderCode>6923441825908069406</subSourceOrderCode><actualPrice>549</actualPrice><inventoryType>ZP</inventoryType></orderLine><orderLine><orderLineNo>2</orderLineNo><itemCode>NL20231008104NLM</itemCode><planQty>1</planQty><ownerCode>21</ownerCode><itemName>骑行手套</itemName><sourceOrderCode>6923441825908069406</sourceOrderCode><subSourceOrderCode>6923441825908134942</subSourceOrderCode><actualPrice>0</actualPrice><inventoryType>ZP</inventoryType></orderLine></orderLines></request>
+header:Connection=close&Content-Length=3846&Content-Type=application%2fxml%3b+charset%3dutf-8&Accept=text%2fxml%2capplication%2fxml%2c*%2f*&Host=3qy4438196.goho.co
+ip:192.168.8.74
+query:app_key=21306918&method=deliveryorder.create&v=2.0&format=xml&sign_method=md5&customerId=HkUatFull&sign=F528BB4FD74A15DDDB2318B4A2D9703E&timestamp=2024-05-08+18%3a18%3a36
+method:POST
