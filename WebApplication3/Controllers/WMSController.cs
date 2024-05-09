@@ -46,13 +46,13 @@ namespace WebApplication3.Controllers
                 int billtype = 0;
                 var methodname = Request.QueryString["method"].ToString();
                 log.MethodName = methodname;
-                if (methodname.Contains("qimen.deliveryorder.create"))
+                if (methodname.Contains("deliveryorder.create"))
                 {
                     billno = XmlReaderExample.GetDeliveryOrderCode(body, "/request/deliveryOrder/deliveryOrderCode");
                     billtype = 1;
                     log.BillNo = billno;
                 }
-                else if (methodname.Contains("qimen.returnorder.create"))
+                else if (methodname.Contains("returnorder.create"))
                 {
                      billno = XmlReaderExample.GetDeliveryOrderCode(body, "/request/returnOrder/returnOrderCode");
                     billtype = 2;
@@ -96,9 +96,9 @@ namespace WebApplication3.Controllers
 
 
              
-                if (methodname.Contains("qimen.deliveryorder.create"))
+                if (methodname.Contains("deliveryorder.create"))
                     xmlDoc = getDeliveryResult();
-                else if (methodname.Contains("qimen.returnorder.create"))
+                else if (methodname.Contains("returnorder.create"))
                     xmlDoc = getReturnResult();
                 else if (methodname.Contains("order.cancel"))
                     xmlDoc = getCalcelResult(new result 
